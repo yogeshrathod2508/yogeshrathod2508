@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yogeshrathod2508
 - 👀 I’m interested in Cyber Security and hacking
-- 🌱 I’m currently learning javascript and networking basics
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning javascript and ethical hacking
+<!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me yogeshrathod19@gnu.ac.in
 
 <!---
