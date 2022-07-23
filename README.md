@@ -2,6 +2,7 @@
 - 👀 I’m interested in Cyber Security and hacking
 - 🌱 I’m currently learning javascript and ethical hacking
 - 📫 How to reach me yogeshrathod19@gnu.ac.in
+- Linktr: https://linktr.ee/yogeshrathod
 <!-- - 💞️ I’m looking to collaborate on ... -->
 
 
