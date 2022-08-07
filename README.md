@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/yogeshrathod25" target="blank"><img src="https://img.shields.io/twitter/follow/yogeshrathod25?logo=twitter&style=for-the-badge" alt="yogeshrathod25" /></a> </p>
 
-- 🌱 I’m currently learning **Angular JS, Node**
+- 🌱 I’m currently learning **Angular, Node**
 
 - 💬 Ask me about **Angular, Javascript, CSS, HTML**
 
