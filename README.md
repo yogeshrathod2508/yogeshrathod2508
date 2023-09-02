@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Angular, Javascript, CSS, HTML**
 
-- 📫 How to reach me **yogeshrathod19@gnu.ac.in**
+- 📫 How to reach me **yrathod4@asu.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
