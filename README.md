@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">👋 Hi, I’m Yogesh Rathod!<br><br>🚀 Cybersecurity Enthusiast | Security Analyst | Learning Assistant at ASU<br><br>🔒 Passionate about Cybersecurity, Detection & Monitoring, and Threat Hunting.<br><br>💻 Skilled in Cloud Architecture, Digital Forensics, Information System Security, and Shell Programming.<br><br>📚 Currently pursuing my Master's in IT (Cybersecurity) at ASU.<br><br>🎓 Certified in (ISC)² CC – Certified in Cybersecurity and preparing for Security+ and AWS Cloud Operations.<br><br>⚙️ Building SOC Homelabs with tools like Security Onion, Splunk, pfSense, and theHive.<br><br>📂 Explore my projects: Active Directory, Cybersecurity Labs, and Real-Time Monitoring.<br><br>🌟 Open to collaborations in Cybersecurity and IT Automation.</p>
+<p align="left">👋 Hi, I’m Yogesh Rathod!<br><br>🚀 Cybersecurity Enthusiast | Security Analyst | Learning Assistant at ASU<br><br>🔒 Passionate about Cybersecurity, Detection & Monitoring, and Threat Hunting.<br><br>💻 Skilled in Cloud Architecture, Digital Forensics, Information System Security, and Shell Programming.<br><br>📚 Currently pursuing my Master's in IT (Cybersecurity) at ASU.<br><br>🎓 Certified in Security+ SY0-701, (ISC)² CC – Certified in Cybersecurity and preparing for AZ-500 (Azure Security Engineer Associate).<br><br>⚙️ Building SOC Homelabs with tools like Security Onion, Splunk, pfSense, and theHive.<br><br>📂 Explore my projects: Active Directory, Cybersecurity Labs, and Real-Time Monitoring.<br><br>🌟 Open to collaborations in Cybersecurity and IT Automation.</p>
 
 ###
 
